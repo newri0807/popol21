@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "name": "Newli Kim",
+    "titles": [
+      "Web Designer",
+      "Front-end Developer",
+      "Web Publisher",
+      "markup developer"
+    ],
+    "social": [
+      {
+        "name": "email",
+        "url": "mailto:newri0807@naver.com",
+        "class": "fas fa-envelope"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/newri0807",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_nm.87/",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Jquery",
+        "class": "devicon-jquery-plain",
+        "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "55"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain",
+        "level": "65"
+      },
+      {
+        "name": "MicrosoftSQL",
+        "class": "fas fa-database",
+        "level": "60"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "60"
+      },
+      {
+        "name": "Photoshop",
+        "class": "devicon-photoshop-plain",
+        "level": "95"
+      },
+      {
+        "name": "Illustrator",
+        "class": "devicon-illustrator-plain",
+        "level": "95"
+      }
+    ]
+  }
+}

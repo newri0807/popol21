@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "description_header": "안녕하세요.",
+    "description": "👋 저는 김뉴리입니다. 현재 개발팀에서 웹사업부 담당으로 일하고있습니다 :) 주로 사용하는 개발 프로그램 언어는 C#, Jquery, Javascript 이고. 프레임워크는 React를 사용할 수 있습니다. 앞으로도 더욱 성장할 수 있는 프론트엔드 개발자가 되고싶습니다⭐ 감사합니다 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "WMS SmartFactory 2021 (프로젝트 관리 시스템)",
+      "startDate": "2021",
+      "description": "ERP형 스마트팩토리 개발 프로젝트 중 하나인 통합 프로젝트 관리 시스템이다. 사용자별로 원하는 UI를 설정할 수 있는 기능이 있고, 각 업체별로 공통적인 제조/공정/프로젝트 기능을 더 편리하게 쓸 수 있도록 기능을 추가 중이다.",
+      "images": [
+        "images/portfolio/wms/p2.png"
+      ],
+      "url": "http://work.theblueeye.com/Account/Login",
+      "technologies": [
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "MicrosoftSQLserver"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "KPC Powercell 웹",
+      "startDate": "2021",
+      "description": "업체측에서 제품소개, 다운로드센터 페이지 정보를 관리자페이지에서 직접 정보를 넣을 수 있는 기능을 원해 추가해준 사이트이다. 관리자가 직접 내용을 넣다보니 반응형이나 UX/UI 적인 부분에서 신경을 많이 써야했던 사이트이다.:)",
+      "images": [
+        "images/portfolio/kpc/p2.png",
+        "images/portfolio/kpc/p1.jpg"
+      ],
+      "url": [
+        "http://www.koreapowercell.com/"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        }
+      ]
+    },
+    {
+      "title": "2021 UST 입학설명회",
+      "startDate": "2021",
+      "description": "2021년도 UST 대학기관 입학설명회 웹사이트 작업이다. 일러스트레이터와 포토샵으로 UI디자인을 했으며, 팀원들과 함께 운영자가 관리자페이지에서 직접 캠퍼스별 정보를 넣을 수 있도록 기능을 개발하였다.",
+      "images": [
+        "images/portfolio/ust/p2.png"
+      ],
+      "url": "http://ois.ust.ac.kr/",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        }
+      ]
+    },
+    {
+      "title": "풋살친구",
+      "startDate": "2020",
+      "description": "내가 처음으로 UI/UX 디자인과 웹 개발을 혼자 맡은 작업 중 하나 이다. 풋살 경기를 매칭 하고, 경기장을 예약할 수 있는 웹 사이트이다. 작업하면서 다방면으로 성장했던 프로젝트 중 하나이다",
+      "images": [
+        "images/portfolio/futsal/p2.png"
+      ],
+      "url": "http://futsal.theblueeye.com/",
+      "technologies": [
+        {
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "MicrosoftSQLserver"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "(주)블루아이",
+      "title": "Front-End Developer, Web Designer",
+      "years": "06.2020 - 현재",
+      "mainTech": [
+        "C#"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Jquery",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        ".NET Framework",
+        "ASP.NET Core MVC"
+      ]
+    },
+    {
+      "company": "하나투어 하와이지점",
+      "title": "Web Designer",
+      "years": "11.2019 - 03.2020",
+      "mainTech": [
+        "Desgin, Web Publishing"
+      ],
+      "technologies": [
+        "Photoshop",
+        "Illustrator",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Jquery"
+      ]
+    }
+  ]
+}
