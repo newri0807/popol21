@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Typical from "react-typical";
 import Switch from "react-switch";
-
+import Sky from 'react-sky';
 class Header extends Component {
   titles = [];
 
@@ -89,6 +89,29 @@ class Header extends Component {
               />
             </div>
           </div>
+        </div>
+        <div>
+          <Sky
+            images={{
+              /* FORMAT AS FOLLOWS */
+              0: "./images/mint1.png",  /* You can pass as many images as you want */
+              1: "./images/chip1.png",
+              2: "./images/chip2.png",
+              3: "./images/chip3.png",
+              4: "./images/chip4.png",
+              5: "./images/chip5.png",
+            }}
+            how={30} /* Pass the number of images Sky will render chosing randomly */
+            time={40} /* time of animation */
+            size={'100px'} /* size of the rendered images */
+            background={
+              (this.state.checked === true ? (
+                "#494949"
+              ) : (
+                "#9CE7DC"
+              ))
+            }
+          />
         </div>
       </header>
     );

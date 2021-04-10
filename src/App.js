@@ -8,6 +8,7 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
+
 class App extends Component {
 
   constructor(props) {
@@ -117,6 +118,7 @@ class App extends Component {
             ></span>
           </div>
         </div>
+
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}

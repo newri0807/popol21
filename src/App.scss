@@ -31,21 +31,31 @@ html {
 
 header {
 	position: relative;
-	height: 520px;
-	min-height: 450px;
+	height: 99vh;
+	min-height: 98vh;
 	width: 100%;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
 	// background-color: #e9d5a1;
-	background-color: #9CE7DC;
+	background-color: transparent;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	padding-top: 150px;
-	padding-bottom: 0;
+	padding-bottom: 0;	
+	z-index: 4;
+}
+
+#sky{
+	position: absolute;
+	top:100px;
+	left: 0;
+	//z-index: 1!important;
+	//height: 730px!important;
+	//min-height: 730px!important;
 }
 
 .language-icon {
@@ -75,9 +85,12 @@ header {
 
 .language {
 	font-size: 25px;
-	background-color: #9CE7DC;
+	//background-color: #9CE7DC;
+	background-color: transparent;
 	padding-bottom: 10px;
-	padding-top: 80px;
+	padding-top: 40px;
+	position: relative;
+	//z-index: -1;
 }
 
 header h1 {
