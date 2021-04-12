@@ -44,10 +44,7 @@
       "images": [
         "images/portfolio/kpc/p2.png"
       ],
-      "url": [
-        "http://www.koreapowercell.com/",
-        "http://adm.theblueeye.com/Account/Login"
-      ],
+      "url": "http://www.koreapowercell.com/",
       "technologies": [
         {
           "class": "devicon-csharp-plain",

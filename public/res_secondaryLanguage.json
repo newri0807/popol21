@@ -20,8 +20,8 @@
       "url": "http://work.theblueeye.com/Account/Login",
       "technologies": [
         {
-          "class": "devicon-microsoftsqlserver-plain",
-          "name": "MicrosoftSQLserver"
+          "class": "fas fa-database",
+          "name": "MicrosoftSQL"
         },
         {
           "class": "devicon-javascript-plain",
@@ -42,12 +42,9 @@
       "startDate": "2021",
       "description": "업체측에서 제품소개, 다운로드센터 페이지 정보를 관리자페이지에서 직접 정보를 넣을 수 있는 기능을 원해 추가해준 사이트이다. 관리자가 직접 내용을 넣다보니 반응형이나 UX/UI 적인 부분에서 신경을 많이 써야했던 사이트이다.:)",
       "images": [
-        "images/portfolio/kpc/p2.png",
-        "images/portfolio/kpc/p1.jpg"
+        "images/portfolio/kpc/p2.png"
       ],
-      "url": [
-        "http://www.koreapowercell.com/"
-      ],
+      "url": "http://www.koreapowercell.com/",
       "technologies": [
         {
           "class": "devicon-csharp-plain",
@@ -96,8 +93,8 @@
       "url": "http://futsal.theblueeye.com/",
       "technologies": [
         {
-          "class": "devicon-microsoftsqlserver-plain",
-          "name": "MicrosoftSQLserver"
+          "class": "fas fa-database",
+          "name": "MicrosoftSQL"
         },
         {
           "class": "devicon-javascript-plain",
