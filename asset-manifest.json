@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/popol21/static/css/main.ed59051c.chunk.css",
+    "main.js": "/popol21/static/js/main.b35ac34b.chunk.js",
+    "main.js.map": "/popol21/static/js/main.b35ac34b.chunk.js.map",
+    "runtime-main.js": "/popol21/static/js/runtime-main.35508322.js",
+    "runtime-main.js.map": "/popol21/static/js/runtime-main.35508322.js.map",
+    "static/css/2.14913855.chunk.css": "/popol21/static/css/2.14913855.chunk.css",
+    "static/js/2.bb5455d7.chunk.js": "/popol21/static/js/2.bb5455d7.chunk.js",
+    "static/js/2.bb5455d7.chunk.js.map": "/popol21/static/js/2.bb5455d7.chunk.js.map",
+    "index.html": "/popol21/index.html",
+    "static/css/2.14913855.chunk.css.map": "/popol21/static/css/2.14913855.chunk.css.map",
+    "static/css/main.ed59051c.chunk.css.map": "/popol21/static/css/main.ed59051c.chunk.css.map",
+    "static/js/2.bb5455d7.chunk.js.LICENSE.txt": "/popol21/static/js/2.bb5455d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35508322.js",
+    "static/css/2.14913855.chunk.css",
+    "static/js/2.bb5455d7.chunk.js",
+    "static/css/main.ed59051c.chunk.css",
+    "static/js/main.b35ac34b.chunk.js"
+  ]
+}

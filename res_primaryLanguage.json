@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Newli Kim. I am currently working in charge of the web business department in the development team. The most commonly used development program languages are C#, Jquery, and Javascript. The front-end frameworks can use React. I want to become a more grown front-end developer⭐ Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "WMS SmartFactory 2021 (Integrated Work Management System)",
+      "startDate": "2021",
+      "description": "It is an integrated project management system that is one of ERP-type Smart Factory development projects. Each user has a function to set the desired UI, and each company is adding a function to make it easier to use common manufacturing/process/project functions.",
+      "images": [
+        "images/portfolio/wms/p2.png"
+      ],
+      "url": "http://work.theblueeye.com/Account/Login",
+      "technologies": [
+        {
+          "class": "fas fa-database",
+          "name": "MicrosoftSQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "KPC Powercell web ",
+      "startDate": "2021",
+      "description": "Added the product introduction and download center page information because it wanted the function to put the information directly on the manager's page. As the manager put in the contents himself, he had to pay a lot of attention to the reactive and UX/UI aspects. :)",
+      "images": [
+        "images/portfolio/kpc/p2.png"
+      ],
+      "url": "http://www.koreapowercell.com/",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        }
+      ]
+    },
+    {
+      "title": "2021 UST Admissions Conference",
+      "startDate": "2021",
+      "description": "It is the work of the website of the 2021 U.S.T. University Institution Admissions Briefing. UI design was done with illustrator and photoshop, and Together with the team members, the function was developed to allow operators to put campus-specific information directly from the manager page.",
+      "images": [
+        "images/portfolio/ust/p2.png"
+      ],
+      "url": "http://ois.ust.ac.kr/",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        }
+      ]
+    },
+    {
+      "title": "Futsal Friend",
+      "startDate": "2020",
+      "description": "It is one of the first tasks that I took charge of UI/UX design and web development alone. It is a website that allows you to match futsal matches and reserve stadiums. I've learned a lot!",
+      "images": [
+        "images/portfolio/futsal/p2.png"
+      ],
+      "url": "http://futsal.theblueeye.com/",
+      "technologies": [
+        {
+          "class": "fas fa-database",
+          "name": "MicrosoftSQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-jquery-plain",
+          "name": "Jquery"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "company": "Blue Eye Co., Ltd.",
+      "title": "Front-End Developer, Web Designer",
+      "years": "06.2020 - present",
+      "mainTech": [
+        "C#"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Jquery",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        ".NET Framework",
+        "ASP.NET Core MVC"
+      ]
+    },
+    {
+      "id": "2",
+      "company": "Hana Tour Company Hawaii Branch",
+      "title": "Web Designer",
+      "years": "11.2019 - 03.2020",
+      "mainTech": [
+        "Desgin, Web Publishing"
+      ],
+      "technologies": [
+        "Photoshop",
+        "Illustrator",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Jquery"
+      ]
+    }
+  ]
+}
